@@ -1,0 +1,24 @@
+
+.container-header{
+    height: 421px;
+    background-image: url("../images/bk1.jpg");
+}
+
+.header-logo{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+.header-logo .logo{
+    float: left;
+}
+
+.header-logo .sologan > p{
+    float: left;
+    margin: 0;
+}
+
+.header-phone{
+    border: 1px solid green;
+    height: 50px;
+}
