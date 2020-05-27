@@ -169,3 +169,79 @@ menu li {
   opacity: 0.8;
   cursor: pointer;
 }
+
+.solo-gan{
+    width: 900px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.solo-gan p {
+    margin: 0;
+}
+
+.products{
+    width: 1000px;
+    margin: auto;
+    height: 800px;
+}
+
+.products-detail{
+    width: 240px;
+    float: left;
+    margin: 0 5px;
+}
+
+.products-detail h1 {
+    color: #cc9900;
+    font-size: 18px;
+    margin: 0;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.products-detail p {
+    color: #adadad;
+    font-size: 12px;
+}
+
+.products-detail h5 {
+    font-size: 24px;
+    float: right;
+    font-weight: bold;
+    color: black;
+    margin: 0;
+}
+
+.info {
+    width: 100%;
+    background-color: #eeeeee;
+    height: 435px;
+}
+
+.info-detail{
+    width: 200px;
+    margin: 50px 50px;
+    float: left;
+}
+
+.info-detail h1 {
+    font-size: 30px;
+}
+
+.info-detail h2 {
+    font-size: 22px;
+    color: #cc9900;
+}
+
+.info-detail p {
+    font-size: 12px;
+}
+
+.more {
+    float: right;
+    background: linear-gradient(#8f8f8f, #3d3d3d);
+    color: white;
+    padding: 10px 15px;
+
+}
